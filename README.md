@@ -41,6 +41,19 @@
 ![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
+
+### SRE & DevOps:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
+
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -79,18 +92,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-### SRE & DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
-
 
 &emsp;
 
@@ -103,7 +104,7 @@
 <br>
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## Connect with me
 <br>
 <div align='left'>
 
@@ -120,8 +121,4 @@
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 <br>
